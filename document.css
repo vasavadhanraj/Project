@@ -40,6 +40,10 @@ h2{
     color: rgb(70, 70, 70);
 }
 
+.info-3{
+    font-family: math;
+}
+
 .text-2{
     color: rgb(104, 104, 104);
 }
@@ -80,4 +84,76 @@ ul{
 .hr2{
     margin-top: -5px;
     border: 1px gray dashed;
+}
+
+.box-4-container{
+    display: flex;
+}
+
+.box-4-container-2{
+    display: flex;
+}
+
+.content{
+    height: 90px;
+    width: 500px;
+}
+
+.icon-size{
+    font-size: 20px;
+}
+
+.box-4-content-2{
+    width: 400px;
+}
+
+.text-6{
+    font-size: 14px;
+    margin-left: 38px;
+}
+
+.text-7{
+    margin-left: 37px;
+}
+
+.icon-size2{
+    font-size: 28px !important;
+}
+
+.hr-size{
+    margin-left: -5px;
+    width: 450px;
+}
+
+.text-9{
+    font-size: 14px;
+    margin-left: 27px;
+}
+
+.text-10{
+    margin-left: 27px;
+}
+
+.box-4-content-5{
+    margin-top: -30px;
+    margin-left: 35px;
+}
+
+.text-11{
+    font-size: 14px;
+}
+
+/* .box-5{
+    display: inline;
+} */
+
+.box-5-content{
+    text-align: center;
+    width: 200px;
+    font-weight: bold;
+    /* border-bottom: 1px solid black; */
+}
+
+.box5-p{
+    padding-left: 30px;
 }
