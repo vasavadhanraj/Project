@@ -1,4 +1,5 @@
 .body-container{
+    margin-top: 50px;
     margin-left: 50px;
 }
 
@@ -57,6 +58,11 @@ h2{
 .hr1{
     border: 2px solid black;
     margin-top: -22px;
+}
+
+.hr-width{
+    margin-left: 0px;
+    width: 900px;
 }
 
 .material-symbols-outlined{
@@ -122,7 +128,7 @@ ul{
 
 .hr-size{
     margin-left: -5px;
-    width: 450px;
+    width: 404px;
 }
 
 .text-9{
@@ -131,7 +137,7 @@ ul{
 }
 
 .text-10{
-    margin-left: 27px;
+    margin-left: 38px;
 }
 
 .box-4-content-5{
@@ -149,11 +155,71 @@ ul{
 
 .box-5-content{
     text-align: center;
-    width: 200px;
     font-weight: bold;
     /* border-bottom: 1px solid black; */
 }
 
+
 .box5-p{
     padding-left: 30px;
+}
+
+/* .b-5{
+} */
+
+.box6-content{
+    display: flex;
+}
+
+.box6-1{
+    width: 250px;
+}
+
+.box6-2{
+    padding-left: 28px;
+    width: 300px;
+}
+
+.box6-3{
+    padding-left: 28px;
+}
+.box6-text{
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.box6-text2{
+    margin-top: 5px;
+    font-size: 14px;
+    float: right;
+}
+.line{
+    margin-top: 5px;
+    width: 250px;
+    border-radius: 20px;
+    height: 6px;
+    background-color: darkcyan;
+}
+
+.line2{
+    margin-top: 5px;
+    width: 300px;
+    border-radius: 20px;
+    height: 6px;
+    background-color: rgb(157, 157, 157);
+}
+
+.line3{
+    margin-top: -5.5px;
+    width: 250px;
+    border-radius: 20px;
+    height: 6px;
+    background-color: darkcyan;
+}
+
+.line4{
+    margin-top: -5.5px;
+    width: 180px;
+    border-radius: 20px;
+    height: 6px;
+    background-color: darkcyan;
 }
